@@ -10,3 +10,5 @@ Just a repository for learning golang. Nothing special
 
 [sentdex youtube videos](https://youtu.be/G3PvTWRIhZA)
 
+[Разработка веб-сервисов на Go - основы языка(rus)](https://www.coursera.org/learn/golang-webservices-1)
+
